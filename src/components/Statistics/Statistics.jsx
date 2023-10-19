@@ -1,6 +1,5 @@
 import css from 'components/Statistics/Statistics.module.css';
 
-
 export const Statistics = ({ title, stats }) => {
   return (
     <section className={css.statistics}>
